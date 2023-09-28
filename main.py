@@ -46,3 +46,13 @@ class Belinskiy(object):
                 plural_nouns.append(token)
 
         return plural_nouns
+
+    def find_english(self, token):
+        pass
+
+    def has_simple_synonym(self, token):
+        pass
+
+    def find_digits(self):
+        pass
+
